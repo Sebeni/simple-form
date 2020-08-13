@@ -39,6 +39,6 @@ body {
 }
 
 #pet-select-container {
-    display: block;
+    display: none;
 }
 
